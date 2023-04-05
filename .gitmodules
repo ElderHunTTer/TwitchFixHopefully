@@ -3,7 +3,7 @@
 	url = https://github.com/TwitchLib/TwitchLib.PubSub
 [submodule "TwitchLib.Client"]
 	path = TwitchLib.Client
-	url = https://github.com/TwitchLib/TwitchLib.Client
+	url = https://github.com/ElderHunTTer/TwitchFixHopefully/tree/main/TwitchLib.Client
 [submodule "TwitchLib.Api"]
 	path = TwitchLib.Api
 	url = https://github.com/TwitchLib/TwitchLib.Api
